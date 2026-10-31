@@ -41,7 +41,18 @@ This project focuses on analyzing supply chain operations using Python and Power
 
 ## Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
+### Page 1 – Overview
+![Dashboard Page 1](images/dashboard_page_1.png)
+
+### Page 2 – Suppliers & Inventory
+![Dashboard Page 2](images/dashboard_page_2.png)
+
+### Page 3 – Manufacturing & Qulaity
+![Dashboard Page 3](images/dashboard_page_3.png)
+
+### Page 4 – Logistics
+![Dashboard Page 4](images/dashboard_page_4.png)
+
 
 ## Key Findings
 
